@@ -1,0 +1,52 @@
+header {
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+body {
+	background-color: #000;
+	display: box;
+	margin-left: 7%;
+}
+
+article {
+	border: 1px solid lightblue;
+	width: 30%;
+	padding: 0;
+	margin: 5px;
+	float: left;
+	color: white;
+}
+
+h2 {
+	border: 1px dotted lightgray;
+	text-align: center;
+	padding: 45px;
+	color: white;
+	margin: 0;
+}
+
+#description {
+	text-align: justify;
+	color: white;
+}
+
+h3 {
+	font-weight: bold;
+	color: #43464b;
+}
+
+#status {
+	background-color: darkgrey;
+	color: yellow;
+}
+
+footer {
+	font-size: 10px;
+}
+article img {
+	margin-top: 15px;    
+	max-width: 100%;
+	height: auto;
+}
